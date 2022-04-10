@@ -1,0 +1,4 @@
+.bui-checkbox__label {
+  display: inline-block;
+  user-select: none;
+}
